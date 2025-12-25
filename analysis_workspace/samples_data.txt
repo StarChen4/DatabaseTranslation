@@ -1,0 +1,1248 @@
+
+================================================================================
+表名: DataAircraft
+总数: 2417, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: Mi-24A Hind A
+   Comments: 10x
+
+2. Name: JZ-8F Finback B
+   Comments: -
+
+3. Name: OH-6D Cayuse [MD-500D, Model 369D]
+   Comments: -
+
+4. Name: An-12B Cub A
+   Comments: -
+
+5. Name: Hercules C.1P [C-130K]
+   Comments: -
+
+6. Name: Tu-95MSM Bear H
+   Comments: Kh-50
+
+7. Name: RQ-1B Predator UAV
+   Comments: -
+
+8. Name: Su-30MK2 Flanker G
+   Comments: -
+
+9. Name: F-15EX Eagle II
+   Comments: -
+
+10. Name: UH-3H Sea King
+   Comments: -
+
+11. Name: EA-6A Electric Intruder
+   Comments: -
+
+12. Name: AH-1W Super Cobra
+   Comments: TOW Retired
+
+13. Name: AH-1F Cobra [C-NITE]
+   Comments: -
+
+14. Name: SA.330J Puma
+   Comments: -
+
+15. Name: F-16A Falcon
+   Comments: Uses 6x AIM-9C SARH
+
+16. Name: S-92A
+   Comments: 3x
+
+17. Name: Hercules C.5 [C-130J]
+   Comments: -
+
+18. Name: LARP
+   Comments: Mod. Sinus 503
+
+19. Name: J-7L Fishcan D
+   Comments: Partial J-7E Upgr, Double Delta
+
+20. Name: J-7 Fishcan
+   Comments: -
+
+21. Name: RQ-1A Predator UAV
+   Comments: -
+
+22. Name: HC-27J Spartan
+   Comments: -
+
+23. Name: VC.10 K.2
+   Comments: -
+
+24. Name: A-10C Thunderbolt II
+   Comments: Suite 11, GBU-39/B SDB
+
+25. Name: KC-45A Pegasus
+   Comments: Airbus A.330-200 MRTT, KC-30A, KC-X, ABMS
+
+26. Name: UC-12M [Super King Air 200]
+   Comments: -
+
+27. Name: F-111D Aardvark
+   Comments: -
+
+28. Name: Harrier T.4N
+   Comments: -
+
+29. Name: King Air 350
+   Comments: -
+
+30. Name: S-3A Viking
+   Comments: -
+
+
+================================================================================
+表名: DataShip
+总数: 1807, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: 901 [Shaldag Mk5]
+   Comments: 4x
+
+2. Name: AFS 1 Mars
+   Comments: -
+
+3. Name: OUSV 4 Vanguard
+   Comments: Ghost Fleet Overlord, LUSV Concept
+
+4. Name: 721 Pulau Rote [Type 89.2 Kondor II]
+   Comments: -
+
+5. Name: 811 Kakap [NAV I, PB 57 Patrol Variant]
+   Comments: -
+
+6. Name: LST 1179 Newport
+   Comments: 3x LCVP, 1x LCP
+
+7. Name: PLH 31 Shikishima
+   Comments: -
+
+8. Name: NGS Buoy
+   Comments: -
+
+9. Name: LD 601 Tarlac [Makassar Class]
+   Comments: SSV Program, 2x LCU,
+
+10. Name: CVN 65 Enterprise
+   Comments: -
+
+11. Name: Type XXX Jinyou
+   Comments: -
+
+12. Name: 351 Ahmad Yani [Van Speijk]
+   Comments: -
+
+13. Name: Type 218A Hongming II [Haijing 12014]
+   Comments: -
+
+14. Name: A 135 Argus
+   Comments: -
+
+15. Name: Pr.956E Sovremenny III [136 Hangzhou]
+   Comments: 2x, MLU, Domestic Systems
+
+16. Name: EM Sovremenny I [Pr.956A Sarych]
+   Comments: -
+
+17. Name: LSF 631 Solgae LCAC [LSF-II]
+   Comments: -
+
+18. Name: CG 21
+   Comments: CG(X), Cancelled
+
+19. Name: L 9062 Hallebarde [CDIC]
+   Comments: For use with Foudre Class
+
+20. Name: Stan Patrol 5009
+   Comments: -
+
+21. Name: Generic Spratly Backbone Fishing Vessel [35m]
+   Comments: -
+
+22. Name: MCM 1 Avenger
+   Comments: SeaFox Inspection ROV
+
+23. Name: P 511 Pattani
+   Comments: -
+
+24. Name: LUSV
+   Comments: Large Unmanned Surface Vessel
+
+25. Name: Commercial Tanker - Large Range 1 [75,000t DWT]
+   Comments: -
+
+26. Name: CV 62 Independence [Forrestal Class]
+   Comments: -
+
+27. Name: P 76 Sea Wolf [FPB-45]
+   Comments: -
+
+28. Name: Sea Sword II
+   Comments: Haegum
+
+29. Name: Haijing 3172
+   Comments: 1x, Haijian Class(?)
+
+30. Name: CV 63 Kitty Hawk
+   Comments: -
+
+
+================================================================================
+表名: DataSubmarine
+总数: 265, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: UUV-300CB
+   Comments: -
+
+2. Name: SSN 685 Glenard P. Lipscomb
+   Comments: -
+
+3. Name: Cosmos SX-506 Class
+   Comments: 2x
+
+4. Name: S 4 [Improved Arihant Class]
+   Comments: -
+
+5. Name: SSN 678 Archerfish [Sturgeon Class]
+   Comments: DDS
+
+6. Name: Sea Whale 2000 UUV
+   Comments: Survey
+
+7. Name: Pinguin B3 ROV
+   Comments: MWW 50 Class, Mine Hunting/Killing Vehicle
+
+8. Name: PLARK-675MKV Echo II
+   Comments: SS-N-12 Mod 1
+
+9. Name: OZZ-5 UUV
+   Comments: Mine Search/Classification Vehicle
+
+10. Name: S 620 Agosta
+   Comments: -
+
+11. Name: SS 711 Hai Kun
+   Comments: -
+
+12. Name: AN/SLQ-48 MNV [EX116 Mod 0] ROV
+   Comments: Mine Neutralisation Vehicle
+
+13. Name: 793 Hai Lung [Zwaardvis Mod Class]
+   Comments: Mk48 Mod 5 ADCAP
+
+14. Name: PLA-885M Severodvinsk [Yasen-M]
+   Comments: Graney, Zircon
+
+15. Name: S 641 Daphne
+   Comments: -
+
+16. Name: SSN 771 Columbia [Improved Los Angeles Class]
+   Comments: -
+
+17. Name: PLARB-941UM Typhoon [Typhoon, Akula]
+   Comments: 1x, Dimitri Donskoy, Buluva Test
+
+18. Name: PLASN-9852 [Belgorod]
+   Comments: KS-139
+
+19. Name: PLARB-667AU Yankee I [Nalim]
+   Comments: -
+
+20. Name: SSBN 640 Benjamin Franklin [Improved Lafayette Class]
+   Comments: Poseidon C3
+
+21. Name: SSBN 640 Benjamin Franklin [Improved Lafayette Class]
+   Comments: Trident C4
+
+22. Name: 401 Cakra [Type 209-1300]
+   Comments: -
+
+23. Name: Type 035A Ming
+   Comments: -
+
+24. Name: Mk18 Mod 2 Kingfish [Remus 600] UUV
+   Comments: Mine Hunting/Killing Vehicle
+
+25. Name: PLARK-949 Oscar I [Granit]
+   Comments: -
+
+26. Name: XLUUV
+   Comments: -
+
+27. Name: SSN 594 Permit
+   Comments: -
+
+28. Name: S 09 Oberon
+   Comments: -
+
+29. Name: PAP 104 Mk5 ROV
+   Comments: Tripartite Class, Mine Hunting/Killing Vehicle
+
+30. Name: SSN 671 Narwhal
+   Comments: -
+
+
+================================================================================
+表名: DataFacility
+总数: 4575, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: AAA Sec (20mm/80 Rhinemetall FK 20-2 Towed)
+   Comments: 2x pr Bty
+
+2. Name: SAM Sec (SA-16 Gimlet [9K310 Igla-1] MANPADS x 3)
+   Comments: -
+
+3. Name: SSM Bn (FROG-7 [9K52 Luna-M] TEL)
+   Comments: -
+
+4. Name: Arty Bty (BM-30 Smerch MLRS x 6)
+   Comments: -
+
+5. Name: Arty Bty (155mm/39 M109A4+ Self-Propelled Howitzer x 6)
+   Comments: -
+
+6. Name: SSM Bde
+   Comments: -
+
+7. Name: Radar (UAR-1021 Skyguard)
+   Comments: 6x, Used for Training After Twin Oerlikon Ret.
+
+8. Name: Antenna Tower - Cellular Network
+   Comments: 950 MHz
+
+9. Name: SSM Silo (SS-24 Scalpel Mod 1 [RS-22])
+   Comments: -
+
+10. Name: Mech Inf Plt (M3A3 Bradley AFV x 4)
+   Comments: Cavalry Scout
+
+11. Name: SSM Bn (Fateh-110C [BM-300] TEL x 2)
+   Comments: Fateh 3, A-110C
+
+12. Name: Arty Bty (Shahin-1 TEL x 6)
+   Comments: IS Unkn
+
+13. Name: Armored Plt (Leopard 1A1 MBT x 4)
+   Comments: -
+
+14. Name: AAA Plt/2 (23mm ZSU-23-2 BTR-ZD x 2)
+   Comments: 2x pr Plt
+
+15. Name: Mech Inf Plt (Boxer APC x 3)
+   Comments: -
+
+16. Name: A/C Revetment (2x Medium Aircraft)
+   Comments: -
+
+17. Name: Armored Plt (M1A2 Abrams MBT x 4)
+   Comments: -
+
+18. Name: Radar (AN/MSQ-77 BDC)
+   Comments: -
+
+19. Name: Arty Bty (122mm/36 2S1 Gvozdika M1974 Self-Propelled Howitzer x 6)
+   Comments: 140x
+
+20. Name: Armored Plt (Type 74 MBT x 4)
+   Comments: -
+
+21. Name: ATGM Plt (AT-14 Spriggan [9M133 Kornet])
+   Comments: -
+
+22. Name: Radar (Thin Skin B HF [PRV-16])
+   Comments: SA-6, SA-8
+
+23. Name: SSM Bn (CH-SSC-13 Splinter [CJ-100])
+   Comments: DF-100
+
+24. Name: Arty Bty (122mm/36 2S1 Gvozdika M1974 Self-Propelled Howitzer x 6)
+   Comments: -
+
+25. Name: Mech Inf Plt (BMP-3 IFV x 3)
+   Comments: -
+
+26. Name: SAM Sec (SA-7b Grail [SPW-70PB] MANPADS x 3)
+   Comments: -
+
+27. Name: SAM Bty (Khordad-3 [Raad Mod])
+   Comments: Sevom Khordad, 4x Bty + Bashir pr Bn
+
+28. Name: SSM Bn (FROG-7 [9K52 Luna-M] TEL)
+   Comments: -
+
+29. Name: Mech Inf Plt (BMP-1 [AT-3 Sagger B] IFV x 3)
+   Comments: -
+
+30. Name: SAM Bn (SA-2b Guideline [S-75 Dvina])
+   Comments: -
+
+
+================================================================================
+表名: DataGroundUnit
+总数: 465, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: ACV-30
+   Comments: Amphibious Combat Vehicle, 30mm Cannon
+
+2. Name: Wolfhound HTSV
+   Comments: 7.62mm MG
+
+3. Name: BTR-D
+   Comments: -
+
+4. Name: Fuel Bowser
+   Comments: 20,000L Diesel
+
+5. Name: BTR-MDM
+   Comments: 2x PKTM 7.62mm MG
+
+6. Name: JLTV-MG
+   Comments: M2, CROWS
+
+7. Name: M1126 Stryker ICV
+   Comments: Unarmed
+
+8. Name: PLZ-07B
+   Comments: Type 07B
+
+9. Name: M577
+   Comments: -
+
+10. Name: Stormer HVM
+   Comments: Starstreak II
+
+11. Name: Radar (AN/MPQ-51 ROR)
+   Comments: Assoc. w/ I-HAWK
+
+12. Name: BMPT Terminator
+   Comments: -
+
+13. Name: Technical
+   Comments: M40A1 Recoilless Rifle
+
+14. Name: Stormer HVM
+   Comments: Starstreak II
+
+15. Name: BMD-4
+   Comments: -
+
+16. Name: M977A4 HEMTT
+   Comments: Armored (B-Kit) Cab, JCR/BFT Integration
+
+17. Name: Challenger 1
+   Comments: Gulf War Mod
+
+18. Name: GAZ-66-11
+   Comments: -
+
+19. Name: 2S23 Nona-SVK
+   Comments: -
+
+20. Name: Radar (AN/TPQ-53)
+   Comments: FMTV
+
+21. Name: Combat Swimmer
+   Comments: 5.56mm AR, RCO 4x Optic
+
+22. Name: M-ATV
+   Comments: Mk19
+
+23. Name: BTR-80
+   Comments: -
+
+24. Name: PLZ-07
+   Comments: Type 07
+
+25. Name: M901 Patriot [PAC-2]
+   Comments: -
+
+26. Name: BMD-1P
+   Comments: -
+
+27. Name: T-14 Armata
+   Comments: -
+
+28. Name: Technical
+   Comments: Brimstone
+
+29. Name: Thunderbolt-2000
+   Comments: RT/LT-2000
+
+30. Name: ZBD-08
+   Comments: WZ502G
+
+
+================================================================================
+表名: DataWeapon
+总数: 4436, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: 127mm/64 Vulcano GLR IR [Guided Long Range]
+   Comments: -
+
+2. Name: 102mm/45 Mk19 Twin HE Burst [2 rnds]
+   Comments: -
+
+3. Name: ELT-555 DECM pod
+   Comments: 1982?
+
+4. Name: CSS-X-24 [DF-27, 1200kg HE Conventional]
+   Comments: ASBM
+
+5. Name: SSQ-954B DIFAR-LOFAR
+   Comments: G-Size, 30/140/300m, 1/4/6hr
+
+6. Name: SA-10a Grumble [5V55KD]
+   Comments: 1982, S-300PT-1
+
+7. Name: DEPRECATED
+   Comments: DEPRECATED
+
+8. Name: Abu Mahdi [Hoveyzeh Mod]
+   Comments: Iran, 2020, ASM, Hoveyzeh is Soumar is Kh-55 Mod
+
+9. Name: Mine [Maham 3]
+   Comments: Iran
+
+10. Name: RBU-12000 Salvo [R89, 10 rnds, Guided]
+   Comments: 1987
+
+11. Name: L-080 Fantasmagoria-A [Emitter Locator]
+   Comments: AS-11/17
+
+12. Name: Mk48 Mod 5 ADCAP
+   Comments: 1991
+
+13. Name: SET-65M Enot-2 [NATO ET-80A[76]]
+   Comments: 1973, Ship
+
+14. Name: JL-3 [1.0mT Nuclear, CSS-NX-20]
+   Comments: 2022
+
+15. Name: Aster 30 PAAMS [GWS.45 Sea Viper]
+   Comments: -
+
+16. Name: Karinga CB [xx x Anti-Tank Bomblets]
+   Comments: Cancelled, Never Produced
+
+17. Name: Mk20(E) Bidder
+   Comments: Escort
+
+18. Name: 25mm SIDAM Burst [20 rnds]
+   Comments: -
+
+19. Name: UCM-T130 Loki Torpedo Decoy
+   Comments: -
+
+20. Name: CSS-6 Mod 1 [DF-15A, 500kg Conventional]
+   Comments: 1996
+
+21. Name: USV Suicide Charge [450g]
+   Comments: USV Suicide Charge
+
+22. Name: RB 15F Mk2
+   Comments: 2002
+
+23. Name: 100mm 2A70 HEAT
+   Comments: Generic Tank Ammo
+
+24. Name: CA/SSQ-550 DIFAR [AN/SSQ-53A]
+   Comments: A-Size, 31 Chn, 27m/100/304m, 1/4hr
+
+25. Name: 105mm L7A3 HE
+   Comments: -
+
+26. Name: 105mm Mle F2 APFSDS-T
+   Comments: AMX 30
+
+27. Name: SS-1d Scud C [600kg HE Conventional] RV
+   Comments: -
+
+28. Name: 127mm/62 Mk186 HE-MOFN [Mk64 HiCap Body, Mk437 Fuse]
+   Comments: 2015, Land and ASuW, No AAW, Multi-Option Fuze Navy
+
+29. Name: Cargo [No Drop, 15 tons]
+   Comments: -
+
+30. Name: AGM-176A Griffin A
+   Comments: -
+
+
+================================================================================
+表名: DataSensor
+总数: 7246, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: Kite Screech A [Radar]
+   Comments: -
+
+2. Name: Oropesa OO Mechanical Cable Cutter Sweep
+   Comments: -
+
+3. Name: SPO-3 Sirena-3
+   Comments: -
+
+4. Name: Generic FLIR
+   Comments: DEPRECATED - 3rd Gen, Weapon Director & Target Search, Tracking and Identification FLIR
+
+5. Name: NUR-15 Odra-C [TRS-15C]
+   Comments: Poland, NSM FCR
+
+6. Name: Generic Visual Space Object Tracker
+   Comments: -Telescope
+
+7. Name: SMART-L ELR
+   Comments: 2006, VSR
+
+8. Name: AN/ALR-87
+   Comments: Switzerland, AN/ALR-46
+
+9. Name: AselFLIR 300T [Visual Camera]
+   Comments: Surveillance
+
+10. Name: S-600
+   Comments: -
+
+11. Name: AN/AVQ-17 Searchlight
+   Comments: -
+
+12. Name: ARSR-2
+   Comments: -
+
+13. Name: OES-52 [IR]
+   Comments: -
+
+14. Name: Type 912 [Visual Camera]
+   Comments: -
+
+15. Name: SPS 2100 [RWR]
+   Comments: -
+
+16. Name: China Type 930-4
+   Comments: -
+
+17. Name: AN/SPG-53E [Mk68 GFCS, Visual]
+   Comments: -
+
+18. Name: ORB 32WAS Heracles II
+   Comments: -
+
+19. Name: Oeil Vert Plus [Green Eye]
+   Comments: France
+
+20. Name: HQ-7 Search Radar [FM-80]
+   Comments: China, 1990, Crotale
+
+21. Name: SARH Seeker
+   Comments: SM-1 Blk IV ASuW
+
+22. Name: AN/SPS-67(V)3
+   Comments: -
+
+23. Name: AN/APS-146
+   Comments: -
+
+24. Name: MM/ALR-735(V)3
+   Comments: -
+
+25. Name: Skyguard Sparrow Illuminator
+   Comments: -
+
+26. Name: Torpedo Seeker
+   Comments: L3 [AS 3], Active-Only
+
+27. Name: OES-52 [Laser Spot Tracker]
+   Comments: -
+
+28. Name: Cutlass
+   Comments: Porpoise, Assoc w Cygnus or Scorpion jammer
+
+29. Name: Black Snake [WASS / Morpheus]
+   Comments: Integrated with WASS
+
+30. Name: TKN-AI [Visual/Laser Rangefinder]
+   Comments: Group
+
+
+================================================================================
+表名: DataMount
+总数: 4130, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: CSS-5 Mod 4 [DF-21C] TEL
+   Comments: -
+
+2. Name: Ramses 2 Main Battle Tank
+   Comments: 2005, T-54E
+
+3. Name: Mk16 ASROC Mod 2
+   Comments: Greece, RGM-84D
+
+4. Name: Outfit DLK Barricade
+   Comments: 57mm
+
+5. Name: Outfit DLJ(2)
+   Comments: 1997, 8x Mounts
+
+6. Name: 324mm Mk32 TT Triple
+   Comments: USN, 1998
+
+7. Name: CADS-N-1 [Palma]
+   Comments: 2008, Gun-Only, No Radar
+
+8. Name: Vehicle (RAC-3D [DEHAWK])
+   Comments: -
+
+9. Name: 30mm China LD-2000 [Type 730]
+   Comments: Land-Based
+
+10. Name: Navab VLS [8x Cells]
+   Comments: Iran, Nawab, Naval Zoubin
+
+11. Name: 533mm Mk67 TT
+   Comments: 2021, SSN, Mk48
+
+12. Name: Nodong 2 TEL
+   Comments: Nuclear
+
+13. Name: Mk41 VLS [16 Cells]
+   Comments: Brandenburg, 2015
+
+14. Name: Laser Gun
+   Comments: ABM
+
+15. Name: SA-10b Grumble [5P85S] TEL
+   Comments: 1985, S-300PS, 5V55R, 5V55V (Nuclear)
+
+16. Name: China GJB 5860-2006A VLS [48 Cells]
+   Comments: Type 055
+
+17. Name: K-VLS [16 Cells]
+   Comments: KDX-3 Batch 2, K-ASROC, K-SAAM
+
+18. Name: 7.62mm GAU-2 Minigun [900 rnds]
+   Comments: Helicopter
+
+19. Name: 324mm HOS 301
+   Comments: Japan, Type 73
+
+20. Name: 533mm TT
+   Comments: 2004, Virginia
+
+21. Name: Mk41 VLS [32 Cells]
+   Comments: Taiwan, Frigate, Tien Chien II
+
+22. Name: AN/ALE-47 CMDS x 2 [60 Cartridges]
+   Comments: USN, Dual Spectral, Gen-X & Flare Dispenser
+
+23. Name: Mk41 VLS [48 Cells]
+   Comments: Hobart, 2015
+
+24. Name: 152mm m/37 Coastal Gun
+   Comments: -
+
+25. Name: Vehicle (Iron Beam HELWS)
+   Comments: 100kW Laser Weapon System
+
+26. Name: BMD-3 Turret
+   Comments: 30mm 2A42, AT-5, 7.62mm MG
+
+27. Name: Vehicle (AN/TPS-59(V)3)
+   Comments: -
+
+28. Name: 533mm Quint TT
+   Comments: 1972, ASuW, 53-65K
+
+29. Name: 533mm TT
+   Comments: 1973, SSN, Alfa, SET-65M
+
+30. Name: Vehicle (Long White 2, Mobile)
+   Comments: 120 deg Arc
+
+
+================================================================================
+表名: DataLoadout
+总数: 33788, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: LS-6-500 Extended-Range Bomb [500kg HE], Blue Sky Pod [FLIR + LRMTS, 12k ft], China KG-300 DECM pod
+   Comments: -
+
+2. Name: Cargo, 10 tons
+   Comments: -
+
+3. Name: FAB-250M-54 GPB, Long-Range
+   Comments: -
+
+4. Name: Passengers, 200x, 20 tons
+   Comments: -
+
+5. Name: S-13B 122mm Rockets
+   Comments: -
+
+6. Name: Tp 422
+   Comments: -
+
+7. Name: HYDRA 70mm Rockets, Short-Range
+   Comments: -
+
+8. Name: GBU-31(V)4/B JDAM [BLU-109A/B], Night Owl Nav/Atk Pods [FLIR]
+   Comments: -
+
+9. Name: Paratroopers, 102x, 20 tons
+   Comments: -
+
+10. Name: A/A: AIM-9M Sidewinder, AN/ALQ-119 Pod, Heavy 006
+   Comments: -
+
+11. Name: GBU-31(V)1/B JDAM [Mk84], Internal Only
+   Comments: -
+
+12. Name: OFAB-100-120 Frag
+   Comments: -
+
+13. Name: CPU-123 Enhanced Paveway II GPS/LGB [1000lb GPB], Litening III/EF Pod [FLIR], Light
+   Comments: -
+
+14. Name: ADM-141A TALD
+   Comments: -
+
+15. Name: Mk60 CAPTOR
+   Comments: -
+
+16. Name: (Ferry)
+   Comments: -
+
+17. Name: B83 Strategic Bomb [1.2 mT Nuclear], Long-Range
+   Comments: -
+
+18. Name: AGM-65D Maverick IR [LAU-117/A], Mk82 AIR
+   Comments: -
+
+19. Name: (Ferry)
+   Comments: -
+
+20. Name: S-13B 122mm Rockets, Hi-Lo-Hi
+   Comments: -
+
+21. Name: FAB-250M-54 GPB, SPS-141MVG-E Pod, Lo-Lo-Lo, Long-Range
+   Comments: -
+
+22. Name: Search And Rescue (SAR)
+   Comments: -
+
+23. Name: 250kg GPB, Long-Range
+   Comments: -
+
+24. Name: Troops, 24x
+   Comments: -
+
+25. Name: China KG-800 ECM Pod, China KG-600 DECM Pod
+   Comments: -
+
+26. Name: AS-20 Kayak [Kh-35UE]
+   Comments: -
+
+27. Name: A/A: Meteor, Standard CAP
+   Comments: -
+
+28. Name: Durandal [BLU-107], LANTIRN Pod [FLIR]
+   Comments: -
+
+29. Name: Samson TALD
+   Comments: -
+
+30. Name: Mk20 Rockeye II CB, Sniper XR Pod & LANTIRN Pod [FLIR], Short-Range
+   Comments: -
+
+
+================================================================================
+表名: DataComm
+总数: 502, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: AN/WSC-8 FLTSATCOM SHF Shipboard Transceiver
+   Comments: -
+
+2. Name: UFO SATCOM
+   Comments: -
+
+3. Name: SATCOM UHF
+   Comments: DEPRECATED, USE 358
+
+4. Name: AEGIS Command Datalink [AN/SPY-1AB]
+   Comments: -
+
+5. Name: Luna UAV Datalink
+   Comments: -
+
+6. Name: Rapier Command Datalink FSA
+   Comments: -
+
+7. Name: Anka-S SATCOM UAV Datalink
+   Comments: -
+
+8. Name: Skynet SATCOM
+   Comments: -
+
+9. Name: MHTK Command Datalink
+   Comments: Miniature Hit to Kill
+
+10. Name: AN/HRC-123B SATCOM
+   Comments: -
+
+11. Name: AN/USC-13 VLF Communications
+   Comments: -
+
+12. Name: A1-CM Furia UAV Datalink
+   Comments: -
+
+13. Name: RB 23 Command Datalink
+   Comments: -
+
+14. Name: Generic EDL Link
+   Comments: VMF
+
+15. Name: Link 11B
+   Comments: TADIL-B
+
+16. Name: DSCS SATCOM
+   Comments: -
+
+17. Name: ESU TZ Terminal
+   Comments: Russia BFT Equivalent, Army
+
+18. Name: Galosh ABM Missile Datalink
+   Comments: -
+
+19. Name: ABM Missile Datalink
+   Comments: -
+
+20. Name: YJ-63 Missile Datalink
+   Comments: -
+
+21. Name: THAAD Command Datalink
+   Comments: -
+
+22. Name: Torpedo Wire Control [2 Wires]
+   Comments: -
+
+23. Name: ROVER IV+ Terminal
+   Comments: Target Data Transmission
+
+24. Name: Generic Satellite Downlink [3rd Gen]
+   Comments: -
+
+25. Name: Veloce 15 UAV Datalink
+   Comments: -
+
+26. Name: Starlink SATCOM
+   Comments: -
+
+27. Name: HOT Command Datalink
+   Comments: -
+
+28. Name: AIM-120 Command Datalink [Two-Way]
+   Comments: Offboard
+
+29. Name: MUMT-X
+   Comments: AH-64E V6
+
+30. Name: AT-14 Missile Datalink
+   Comments: -
+
+
+================================================================================
+表名: DataMagazine
+总数: 1730, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: Amethyste
+   Comments: 1995
+
+2. Name: Helicopter Magazine
+   Comments: India, Sea King, Sea Eagle
+
+3. Name: HQ-17
+   Comments: 4x TELAR
+
+4. Name: Elma ASW-601 ASW Mortar [Hard Kill]
+   Comments: 1997, 2x Mounts
+
+5. Name: CSA Mk1 Signal Ejector
+   Comments: 1979, ADC Mk2 Mod 0; Blackwing UAV
+
+6. Name: SA-10a Bn
+   Comments: 12x Mounts, 1982, S-300PT-1, 5V55KD
+
+7. Name: 14.5mm/93 Twin MG
+   Comments: 1x Mount
+
+8. Name: 20mm/120 Meroka Mod 2
+   Comments: 4x Mounts
+
+9. Name: Akula
+   Comments: 2021, Kalibr
+
+10. Name: Barrage Silo Magazine (Emad)
+   Comments: 5x Barrage Launch Wagons w/ 5 Missiles Each
+
+11. Name: Hades
+   Comments: 1992
+
+12. Name: Carrier Magazine
+   Comments: USN, LHA, 1983
+
+13. Name: Cakra
+   Comments: 1993
+
+14. Name: 40mm/70 m/48 Single Bofors
+   Comments: 1x Mount
+
+15. Name: 20mm/100 Mk15 Phalanx Blk 1B
+   Comments: 1x Mount
+
+16. Name: Walrus
+   Comments: 2005
+
+17. Name: Sayyad-1A Battalion
+   Comments: 2010
+
+18. Name: Zwaardvis
+   Comments: 1984
+
+19. Name: Rapier Mk1 Fixed
+   Comments: -
+
+20. Name: Zelzal 3
+   Comments: Triple Launchers
+
+21. Name: CSS-11 Mod 2 [DF-16B] Bn
+   Comments: -
+
+22. Name: Swiftsure
+   Comments: 1983, Tigerfish Mod 1, Harpoon
+
+23. Name: A-12 Draken 533mm
+   Comments: 1965
+
+24. Name: MU-90 [Improved Reloading]
+   Comments: -
+
+25. Name: Carrier Magazine
+   Comments: UK, 1998, Ocean
+
+26. Name: Dark Eagle Bty
+   Comments: 2025, LRHW
+
+27. Name: 40mm/70 Single Bofors
+   Comments: 3x Mounts
+
+28. Name: Stingray Mod 1 [Helicopter Magazine]
+   Comments: -
+
+29. Name: Los Angeles
+   Comments: 1982
+
+30. Name: Mk36 SRBOC
+   Comments: 6x Mounts, 1998
+
+
+================================================================================
+表名: DataWarhead
+总数: 1363, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: FAB-575 M91 FAE [215kg FAE]
+   Comments: -
+
+2. Name: 9M218 (45) 0.5kg Frag
+   Comments: -
+
+3. Name: AGM-154B (6 x BLU-108/B) [24 skeets]
+   Comments: -
+
+4. Name: Haft 6 RV [150kT Nuclear]
+   Comments: -
+
+5. Name: 152mm/50 Triple CPBC Salvo [3 rnds]
+   Comments: -
+
+6. Name: 76mm/60 Single HE Burst [2 rnds]
+   Comments: -
+
+7. Name: 30mm/75 Twin Oerlikon HE Burst [20 rnds]
+   Comments: -
+
+8. Name: Nuclear
+   Comments: (50mT)
+
+9. Name: SS-1c Scud B 985kg
+   Comments: -
+
+10. Name: 50kg GPB [22kg HE]
+   Comments: -
+
+11. Name: Nuclear
+   Comments: (1.5kT)
+
+12. Name: SS-11 Sego Mod 1b RV [1.3mT Nuclear]
+   Comments: -
+
+13. Name: FAB-100M-80 [39kg HE]
+   Comments: -
+
+14. Name: Generic Rising Mine Warhead
+   Comments: -
+
+15. Name: 145kg HE
+   Comments: -
+
+16. Name: KMG-U PTAB-1M (248 x PTAB-1M) 0.94kg Anti-Tank
+   Comments: -
+
+17. Name: DF-17 RV [500kg Conventional]
+   Comments: -
+
+18. Name: Mk60 CAPTOR [Mk46 Mod 4]
+   Comments: -
+
+19. Name: 120mm/50 Twin GP Burst [2 rnds]
+   Comments: -
+
+20. Name: 37mm/63 Single Burst Burst [20 rnds]
+   Comments: -
+
+21. Name: AGM-65A/B/D/H (WDU-20/B) 57kg/125lb HEAT [39kg/86lb Comp B]
+   Comments: -
+
+22. Name: M2/TN41 RV [1mT Nuclear]
+   Comments: -
+
+23. Name: Mk30 AMLRS 180mm Rocket (267 x M77 DPICM) 0.59kg Dual Purpose
+   Comments: Taiwan, RT-2000 AMLRS
+
+24. Name: Depth Charge (200kT Nuclear)
+   Comments: -
+
+25. Name: SS-20/28 Saber Mod 3 MIRV [50kT]
+   Comments: -
+
+26. Name: BLU-122/B 4700lb Penetrator [304kg/670lb AFX-757]
+   Comments: -
+
+27. Name: Nuclear W62
+   Comments: (170kT)
+
+28. Name: M1/TN41 RV [1mT Nuclear]
+   Comments: -
+
+29. Name: 76mm/50 Single Frag
+   Comments: -
+
+30. Name: MGM-168A (WAU-23/B) 500lb Unitary HE [227kg]
+   Comments: -
+
+
+================================================================================
+表名: DataPropulsion
+总数: 4125, 样本数: 30, 有Comments字段: True
+================================================================================
+
+1. Name: 1x NCSIST RU 260
+   Comments: -
+
+2. Name: 3x MTU 20V-538 TB92 Diesels
+   Comments: -
+
+3. Name: Rocket Boost/Sustainer
+   Comments: -
+
+4. Name: 1x WS-11 [AL-25 Copy]
+   Comments: PLAAF
+
+5. Name: 2x Crossley-Pielstick 14PC2V-400 Diesels
+   Comments: -
+
+6. Name: 1x Inboard FPT N67 6.7 litre 570 HP Turbo-Diesel
+   Comments: -
+
+7. Name: 1x Piston Engine
+   Comments: -
+
+8. Name: Torpedo Engine
+   Comments: -
+
+9. Name: 3x General Electric 12-645F8B Diesel Generators, 2x Westinghouse Electric Motors
+   Comments: -
+
+10. Name: Rocket Booster
+   Comments: -
+
+11. Name: 4x Olympus 593 Mk610
+   Comments: -
+
+12. Name: 2x Diesels
+   Comments: -
+
+13. Name: 2x T700-GE-401C
+   Comments: MCM, 30kt loiter
+
+14. Name: 2x ASEA Electric Motor
+   Comments: -
+
+15. Name: 4x SEMT-Pielstick 6 PA6 V280 BTC Diesels
+   Comments: -
+
+16. Name: 2x D-27
+   Comments: -
+
+17. Name: 1x Viper Mk.680-43
+   Comments: -
+
+18. Name: 2x Wärtsilä 12V26 Diesels
+   Comments: -
+
+19. Name: 1x Piston Engine
+   Comments: -
+
+20. Name: 1x K48 Nuclear Reactor, 48MW
+   Comments: -
+
+21. Name: 2x Allison 6V92 Diesels
+   Comments: -
+
+22. Name: 1x RM8B
+   Comments: -
+
+23. Name: 2x MTU 16V 4000 M90 Diesels
+   Comments: -
+
+24. Name: 1x Nuclear Reactor
+   Comments: -
+
+25. Name: Rocket Booster
+   Comments: -
+
+26. Name: 3x M-520TM-5 Diesels
+   Comments: -
+
+27. Name: Rocket Booster
+   Comments: -
+
+28. Name: Rocket Booster, Multiple-Pulse Sustainer
+   Comments: -
+
+29. Name: 1x Electric Propulsion System
+   Comments: -
+
+30. Name: 2x SEMT Pielstick 6 PA6 Diesels
+   Comments: -
+

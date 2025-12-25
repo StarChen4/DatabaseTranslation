@@ -1,0 +1,1580 @@
+{
+  "nato_codenames": [
+    {
+      "table": "DataAircraft",
+      "name": "Mi-24A Hind A",
+      "comments": "10x"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "JZ-8F Finback B",
+      "comments": "-"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "Tu-95MSM Bear H",
+      "comments": "Kh-50"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "Su-30MK2 Flanker G",
+      "comments": "-"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "J-7L Fishcan D",
+      "comments": "Partial J-7E Upgr, Double Delta"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "J-7 Fishcan",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "Pr.956E Sovremenny III [136 Hangzhou]",
+      "comments": "2x, MLU, Domestic Systems"
+    },
+    {
+      "table": "DataShip",
+      "name": "EM Sovremenny I [Pr.956A Sarych]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "PLARK-675MKV Echo II",
+      "comments": "SS-N-12 Mod 1"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "PLARB-941UM Typhoon [Typhoon, Akula]",
+      "comments": "1x, Dimitri Donskoy, Buluva Test"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "PLARB-667AU Yankee I [Nalim]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "PLARK-949 Oscar I [Granit]",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SAM Sec (SA-16 Gimlet [9K310 Igla-1] MANPADS x 3)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SAM Sec (SA-7b Grail [SPW-70PB] MANPADS x 3)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SAM Bn (SA-2b Guideline [S-75 Dvina])",
+      "comments": "-"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "SA-10a Grumble [5V55KD]",
+      "comments": "1982, S-300PT-1"
+    },
+    {
+      "table": "DataMount",
+      "name": "SA-10b Grumble [5P85S] TEL",
+      "comments": "1985, S-300PS, 5V55R, 5V55V (Nuclear)"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Akula",
+      "comments": "2021, Kalibr"
+    }
+  ],
+  "with_brackets": [
+    {
+      "table": "DataAircraft",
+      "name": "OH-6D Cayuse [MD-500D, Model 369D]",
+      "comments": "-"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "Hercules C.1P [C-130K]",
+      "comments": "-"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "AH-1F Cobra [C-NITE]",
+      "comments": "-"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "Hercules C.5 [C-130J]",
+      "comments": "-"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "UC-12M [Super King Air 200]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "901 [Shaldag Mk5]",
+      "comments": "4x"
+    },
+    {
+      "table": "DataShip",
+      "name": "721 Pulau Rote [Type 89.2 Kondor II]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "811 Kakap [NAV I, PB 57 Patrol Variant]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "LD 601 Tarlac [Makassar Class]",
+      "comments": "SSV Program, 2x LCU,"
+    },
+    {
+      "table": "DataShip",
+      "name": "351 Ahmad Yani [Van Speijk]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "Type 218A Hongming II [Haijing 12014]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "Pr.956E Sovremenny III [136 Hangzhou]",
+      "comments": "2x, MLU, Domestic Systems"
+    },
+    {
+      "table": "DataShip",
+      "name": "EM Sovremenny I [Pr.956A Sarych]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "LSF 631 Solgae LCAC [LSF-II]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "L 9062 Hallebarde [CDIC]",
+      "comments": "For use with Foudre Class"
+    },
+    {
+      "table": "DataShip",
+      "name": "Generic Spratly Backbone Fishing Vessel [35m]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "Commercial Tanker - Large Range 1 [75,000t DWT]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "CV 62 Independence [Forrestal Class]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "P 76 Sea Wolf [FPB-45]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "S 4 [Improved Arihant Class]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "SSN 678 Archerfish [Sturgeon Class]",
+      "comments": "DDS"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "AN/SLQ-48 MNV [EX116 Mod 0] ROV",
+      "comments": "Mine Neutralisation Vehicle"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "793 Hai Lung [Zwaardvis Mod Class]",
+      "comments": "Mk48 Mod 5 ADCAP"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "PLA-885M Severodvinsk [Yasen-M]",
+      "comments": "Graney, Zircon"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "SSN 771 Columbia [Improved Los Angeles Class]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "PLARB-941UM Typhoon [Typhoon, Akula]",
+      "comments": "1x, Dimitri Donskoy, Buluva Test"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "PLASN-9852 [Belgorod]",
+      "comments": "KS-139"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "PLARB-667AU Yankee I [Nalim]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "SSBN 640 Benjamin Franklin [Improved Lafayette Class]",
+      "comments": "Poseidon C3"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "SSBN 640 Benjamin Franklin [Improved Lafayette Class]",
+      "comments": "Trident C4"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "401 Cakra [Type 209-1300]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "Mk18 Mod 2 Kingfish [Remus 600] UUV",
+      "comments": "Mine Hunting/Killing Vehicle"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "PLARK-949 Oscar I [Granit]",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SAM Sec (SA-16 Gimlet [9K310 Igla-1] MANPADS x 3)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SSM Bn (FROG-7 [9K52 Luna-M] TEL)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SSM Silo (SS-24 Scalpel Mod 1 [RS-22])",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SSM Bn (Fateh-110C [BM-300] TEL x 2)",
+      "comments": "Fateh 3, A-110C"
+    },
+    {
+      "table": "DataFacility",
+      "name": "ATGM Plt (AT-14 Spriggan [9M133 Kornet])",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "Radar (Thin Skin B HF [PRV-16])",
+      "comments": "SA-6, SA-8"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SSM Bn (CH-SSC-13 Splinter [CJ-100])",
+      "comments": "DF-100"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SAM Sec (SA-7b Grail [SPW-70PB] MANPADS x 3)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SAM Bty (Khordad-3 [Raad Mod])",
+      "comments": "Sevom Khordad, 4x Bty + Bashir pr Bn"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SSM Bn (FROG-7 [9K52 Luna-M] TEL)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "Mech Inf Plt (BMP-1 [AT-3 Sagger B] IFV x 3)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SAM Bn (SA-2b Guideline [S-75 Dvina])",
+      "comments": "-"
+    },
+    {
+      "table": "DataGroundUnit",
+      "name": "M901 Patriot [PAC-2]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "127mm/64 Vulcano GLR IR [Guided Long Range]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "102mm/45 Mk19 Twin HE Burst [2 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "CSS-X-24 [DF-27, 1200kg HE Conventional]",
+      "comments": "ASBM"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "SA-10a Grumble [5V55KD]",
+      "comments": "1982, S-300PT-1"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "Abu Mahdi [Hoveyzeh Mod]",
+      "comments": "Iran, 2020, ASM, Hoveyzeh is Soumar is Kh-55 Mod"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "Mine [Maham 3]",
+      "comments": "Iran"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "RBU-12000 Salvo [R89, 10 rnds, Guided]",
+      "comments": "1987"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "L-080 Fantasmagoria-A [Emitter Locator]",
+      "comments": "AS-11/17"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "SET-65M Enot-2 [NATO ET-80A[76]]",
+      "comments": "1973, Ship"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "JL-3 [1.0mT Nuclear, CSS-NX-20]",
+      "comments": "2022"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "Aster 30 PAAMS [GWS.45 Sea Viper]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "Karinga CB [xx x Anti-Tank Bomblets]",
+      "comments": "Cancelled, Never Produced"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "25mm SIDAM Burst [20 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "CSS-6 Mod 1 [DF-15A, 500kg Conventional]",
+      "comments": "1996"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "USV Suicide Charge [450g]",
+      "comments": "USV Suicide Charge"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "CA/SSQ-550 DIFAR [AN/SSQ-53A]",
+      "comments": "A-Size, 31 Chn, 27m/100/304m, 1/4hr"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "SS-1d Scud C [600kg HE Conventional] RV",
+      "comments": "-"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "127mm/62 Mk186 HE-MOFN [Mk64 HiCap Body, Mk437 Fuse]",
+      "comments": "2015, Land and ASuW, No AAW, Multi-Option Fuze Navy"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "Cargo [No Drop, 15 tons]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSensor",
+      "name": "Kite Screech A [Radar]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSensor",
+      "name": "NUR-15 Odra-C [TRS-15C]",
+      "comments": "Poland, NSM FCR"
+    },
+    {
+      "table": "DataSensor",
+      "name": "AselFLIR 300T [Visual Camera]",
+      "comments": "Surveillance"
+    },
+    {
+      "table": "DataSensor",
+      "name": "OES-52 [IR]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSensor",
+      "name": "Type 912 [Visual Camera]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSensor",
+      "name": "SPS 2100 [RWR]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSensor",
+      "name": "AN/SPG-53E [Mk68 GFCS, Visual]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSensor",
+      "name": "Oeil Vert Plus [Green Eye]",
+      "comments": "France"
+    },
+    {
+      "table": "DataSensor",
+      "name": "HQ-7 Search Radar [FM-80]",
+      "comments": "China, 1990, Crotale"
+    },
+    {
+      "table": "DataSensor",
+      "name": "OES-52 [Laser Spot Tracker]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSensor",
+      "name": "Black Snake [WASS / Morpheus]",
+      "comments": "Integrated with WASS"
+    },
+    {
+      "table": "DataSensor",
+      "name": "TKN-AI [Visual/Laser Rangefinder]",
+      "comments": "Group"
+    },
+    {
+      "table": "DataMount",
+      "name": "CSS-5 Mod 4 [DF-21C] TEL",
+      "comments": "-"
+    },
+    {
+      "table": "DataMount",
+      "name": "CADS-N-1 [Palma]",
+      "comments": "2008, Gun-Only, No Radar"
+    },
+    {
+      "table": "DataMount",
+      "name": "Vehicle (RAC-3D [DEHAWK])",
+      "comments": "-"
+    },
+    {
+      "table": "DataMount",
+      "name": "30mm China LD-2000 [Type 730]",
+      "comments": "Land-Based"
+    },
+    {
+      "table": "DataMount",
+      "name": "Navab VLS [8x Cells]",
+      "comments": "Iran, Nawab, Naval Zoubin"
+    },
+    {
+      "table": "DataMount",
+      "name": "Mk41 VLS [16 Cells]",
+      "comments": "Brandenburg, 2015"
+    },
+    {
+      "table": "DataMount",
+      "name": "SA-10b Grumble [5P85S] TEL",
+      "comments": "1985, S-300PS, 5V55R, 5V55V (Nuclear)"
+    },
+    {
+      "table": "DataMount",
+      "name": "China GJB 5860-2006A VLS [48 Cells]",
+      "comments": "Type 055"
+    },
+    {
+      "table": "DataMount",
+      "name": "K-VLS [16 Cells]",
+      "comments": "KDX-3 Batch 2, K-ASROC, K-SAAM"
+    },
+    {
+      "table": "DataMount",
+      "name": "7.62mm GAU-2 Minigun [900 rnds]",
+      "comments": "Helicopter"
+    },
+    {
+      "table": "DataMount",
+      "name": "Mk41 VLS [32 Cells]",
+      "comments": "Taiwan, Frigate, Tien Chien II"
+    },
+    {
+      "table": "DataMount",
+      "name": "AN/ALE-47 CMDS x 2 [60 Cartridges]",
+      "comments": "USN, Dual Spectral, Gen-X & Flare Dispenser"
+    },
+    {
+      "table": "DataMount",
+      "name": "Mk41 VLS [48 Cells]",
+      "comments": "Hobart, 2015"
+    },
+    {
+      "table": "DataLoadout",
+      "name": "LS-6-500 Extended-Range Bomb [500kg HE], Blue Sky Pod [FLIR + LRMTS, 12k ft], China KG-300 DECM pod",
+      "comments": "-"
+    },
+    {
+      "table": "DataLoadout",
+      "name": "GBU-31(V)4/B JDAM [BLU-109A/B], Night Owl Nav/Atk Pods [FLIR]",
+      "comments": "-"
+    },
+    {
+      "table": "DataLoadout",
+      "name": "GBU-31(V)1/B JDAM [Mk84], Internal Only",
+      "comments": "-"
+    },
+    {
+      "table": "DataLoadout",
+      "name": "CPU-123 Enhanced Paveway II GPS/LGB [1000lb GPB], Litening III/EF Pod [FLIR], Light",
+      "comments": "-"
+    },
+    {
+      "table": "DataLoadout",
+      "name": "B83 Strategic Bomb [1.2 mT Nuclear], Long-Range",
+      "comments": "-"
+    },
+    {
+      "table": "DataLoadout",
+      "name": "AGM-65D Maverick IR [LAU-117/A], Mk82 AIR",
+      "comments": "-"
+    },
+    {
+      "table": "DataLoadout",
+      "name": "AS-20 Kayak [Kh-35UE]",
+      "comments": "-"
+    },
+    {
+      "table": "DataLoadout",
+      "name": "Durandal [BLU-107], LANTIRN Pod [FLIR]",
+      "comments": "-"
+    },
+    {
+      "table": "DataLoadout",
+      "name": "Mk20 Rockeye II CB, Sniper XR Pod & LANTIRN Pod [FLIR], Short-Range",
+      "comments": "-"
+    },
+    {
+      "table": "DataComm",
+      "name": "AEGIS Command Datalink [AN/SPY-1AB]",
+      "comments": "-"
+    },
+    {
+      "table": "DataComm",
+      "name": "Torpedo Wire Control [2 Wires]",
+      "comments": "-"
+    },
+    {
+      "table": "DataComm",
+      "name": "Generic Satellite Downlink [3rd Gen]",
+      "comments": "-"
+    },
+    {
+      "table": "DataComm",
+      "name": "AIM-120 Command Datalink [Two-Way]",
+      "comments": "Offboard"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Elma ASW-601 ASW Mortar [Hard Kill]",
+      "comments": "1997, 2x Mounts"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "CSS-11 Mod 2 [DF-16B] Bn",
+      "comments": "-"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "MU-90 [Improved Reloading]",
+      "comments": "-"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Stingray Mod 1 [Helicopter Magazine]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "FAB-575 M91 FAE [215kg FAE]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "AGM-154B (6 x BLU-108/B) [24 skeets]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "Haft 6 RV [150kT Nuclear]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "152mm/50 Triple CPBC Salvo [3 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "76mm/60 Single HE Burst [2 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "30mm/75 Twin Oerlikon HE Burst [20 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "50kg GPB [22kg HE]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "SS-11 Sego Mod 1b RV [1.3mT Nuclear]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "FAB-100M-80 [39kg HE]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "DF-17 RV [500kg Conventional]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "Mk60 CAPTOR [Mk46 Mod 4]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "120mm/50 Twin GP Burst [2 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "37mm/63 Single Burst Burst [20 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "AGM-65A/B/D/H (WDU-20/B) 57kg/125lb HEAT [39kg/86lb Comp B]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "M2/TN41 RV [1mT Nuclear]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "SS-20/28 Saber Mod 3 MIRV [50kT]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "BLU-122/B 4700lb Penetrator [304kg/670lb AFX-757]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "M1/TN41 RV [1mT Nuclear]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "MGM-168A (WAU-23/B) 500lb Unitary HE [227kg]",
+      "comments": "-"
+    },
+    {
+      "table": "DataPropulsion",
+      "name": "1x WS-11 [AL-25 Copy]",
+      "comments": "PLAAF"
+    }
+  ],
+  "with_slashes": [
+    {
+      "table": "DataFacility",
+      "name": "AAA Sec (20mm/80 Rhinemetall FK 20-2 Towed)",
+      "comments": "2x pr Bty"
+    },
+    {
+      "table": "DataFacility",
+      "name": "Arty Bty (155mm/39 M109A4+ Self-Propelled Howitzer x 6)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "Arty Bty (122mm/36 2S1 Gvozdika M1974 Self-Propelled Howitzer x 6)",
+      "comments": "140x"
+    },
+    {
+      "table": "DataFacility",
+      "name": "Arty Bty (122mm/36 2S1 Gvozdika M1974 Self-Propelled Howitzer x 6)",
+      "comments": "-"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "127mm/64 Vulcano GLR IR [Guided Long Range]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "102mm/45 Mk19 Twin HE Burst [2 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "127mm/62 Mk186 HE-MOFN [Mk64 HiCap Body, Mk437 Fuse]",
+      "comments": "2015, Land and ASuW, No AAW, Multi-Option Fuze Navy"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "14.5mm/93 Twin MG",
+      "comments": "1x Mount"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "20mm/120 Meroka Mod 2",
+      "comments": "4x Mounts"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "40mm/70 m/48 Single Bofors",
+      "comments": "1x Mount"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "20mm/100 Mk15 Phalanx Blk 1B",
+      "comments": "1x Mount"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "40mm/70 Single Bofors",
+      "comments": "3x Mounts"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "152mm/50 Triple CPBC Salvo [3 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "76mm/60 Single HE Burst [2 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "30mm/75 Twin Oerlikon HE Burst [20 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "120mm/50 Twin GP Burst [2 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "37mm/63 Single Burst Burst [20 rnds]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "76mm/50 Single Frag",
+      "comments": "-"
+    }
+  ],
+  "manufacturer_names": [
+    {
+      "table": "DataPropulsion",
+      "name": "3x MTU 20V-538 TB92 Diesels",
+      "manufacturer": "MTU",
+      "comments": "-"
+    },
+    {
+      "table": "DataPropulsion",
+      "name": "3x General Electric 12-645F8B Diesel Generators, 2x Westinghouse Electric Motors",
+      "manufacturer": "General",
+      "comments": "-"
+    },
+    {
+      "table": "DataPropulsion",
+      "name": "2x MTU 16V 4000 M90 Diesels",
+      "manufacturer": "MTU",
+      "comments": "-"
+    }
+  ],
+  "model_numbers": [],
+  "abbreviations": [],
+  "chinese_designations": [
+    {
+      "table": "DataAircraft",
+      "name": "JZ-8F Finback B",
+      "comments": "-"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "J-7L Fishcan D",
+      "comments": "Partial J-7E Upgr, Double Delta"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "J-7 Fishcan",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "721 Pulau Rote [Type 89.2 Kondor II]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "Type 218A Hongming II [Haijing 12014]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "401 Cakra [Type 209-1300]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "Type 035A Ming",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "Armored Plt (Type 74 MBT x 4)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SSM Bn (CH-SSC-13 Splinter [CJ-100])",
+      "comments": "DF-100"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "CSS-X-24 [DF-27, 1200kg HE Conventional]",
+      "comments": "ASBM"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "JL-3 [1.0mT Nuclear, CSS-NX-20]",
+      "comments": "2022"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "CSS-6 Mod 1 [DF-15A, 500kg Conventional]",
+      "comments": "1996"
+    },
+    {
+      "table": "DataSensor",
+      "name": "Type 912 [Visual Camera]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSensor",
+      "name": "China Type 930-4",
+      "comments": "-"
+    },
+    {
+      "table": "DataSensor",
+      "name": "HQ-7 Search Radar [FM-80]",
+      "comments": "China, 1990, Crotale"
+    },
+    {
+      "table": "DataMount",
+      "name": "CSS-5 Mod 4 [DF-21C] TEL",
+      "comments": "-"
+    },
+    {
+      "table": "DataMount",
+      "name": "30mm China LD-2000 [Type 730]",
+      "comments": "Land-Based"
+    },
+    {
+      "table": "DataComm",
+      "name": "YJ-63 Missile Datalink",
+      "comments": "-"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "HQ-17",
+      "comments": "4x TELAR"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "CSS-11 Mod 2 [DF-16B] Bn",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "DF-17 RV [500kg Conventional]",
+      "comments": "-"
+    }
+  ],
+  "russian_designations": [
+    {
+      "table": "DataAircraft",
+      "name": "Mi-24A Hind A",
+      "comments": "10x"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "An-12B Cub A",
+      "comments": "-"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "Tu-95MSM Bear H",
+      "comments": "Kh-50"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "Su-30MK2 Flanker G",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "Pr.956E Sovremenny III [136 Hangzhou]",
+      "comments": "2x, MLU, Domestic Systems"
+    },
+    {
+      "table": "DataShip",
+      "name": "EM Sovremenny I [Pr.956A Sarych]",
+      "comments": "-"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "PLA-885M Severodvinsk [Yasen-M]",
+      "comments": "Graney, Zircon"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SAM Sec (SA-16 Gimlet [9K310 Igla-1] MANPADS x 3)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SSM Silo (SS-24 Scalpel Mod 1 [RS-22])",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "ATGM Plt (AT-14 Spriggan [9M133 Kornet])",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SAM Sec (SA-7b Grail [SPW-70PB] MANPADS x 3)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "Mech Inf Plt (BMP-1 [AT-3 Sagger B] IFV x 3)",
+      "comments": "-"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SAM Bn (SA-2b Guideline [S-75 Dvina])",
+      "comments": "-"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "CSS-X-24 [DF-27, 1200kg HE Conventional]",
+      "comments": "ASBM"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "SA-10a Grumble [5V55KD]",
+      "comments": "1982, S-300PT-1"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "JL-3 [1.0mT Nuclear, CSS-NX-20]",
+      "comments": "2022"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "CSS-6 Mod 1 [DF-15A, 500kg Conventional]",
+      "comments": "1996"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "SS-1d Scud C [600kg HE Conventional] RV",
+      "comments": "-"
+    },
+    {
+      "table": "DataMount",
+      "name": "CSS-5 Mod 4 [DF-21C] TEL",
+      "comments": "-"
+    },
+    {
+      "table": "DataMount",
+      "name": "SA-10b Grumble [5P85S] TEL",
+      "comments": "1985, S-300PS, 5V55R, 5V55V (Nuclear)"
+    },
+    {
+      "table": "DataComm",
+      "name": "AT-14 Missile Datalink",
+      "comments": "-"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "SA-10a Bn",
+      "comments": "12x Mounts, 1982, S-300PT-1, 5V55KD"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "CSS-11 Mod 2 [DF-16B] Bn",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "SS-1c Scud B 985kg",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "SS-11 Sego Mod 1b RV [1.3mT Nuclear]",
+      "comments": "-"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "SS-20/28 Saber Mod 3 MIRV [50kT]",
+      "comments": "-"
+    }
+  ],
+  "ship_designations": [
+    {
+      "table": "DataShip",
+      "name": "AFS 1 Mars",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "OUSV 4 Vanguard",
+      "comments": "Ghost Fleet Overlord, LUSV Concept"
+    },
+    {
+      "table": "DataShip",
+      "name": "LST 1179 Newport",
+      "comments": "3x LCVP, 1x LCP"
+    },
+    {
+      "table": "DataShip",
+      "name": "PLH 31 Shikishima",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "LD 601 Tarlac [Makassar Class]",
+      "comments": "SSV Program, 2x LCU,"
+    },
+    {
+      "table": "DataShip",
+      "name": "CVN 65 Enterprise",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "A 135 Argus",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "LSF 631 Solgae LCAC [LSF-II]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "L 9062 Hallebarde [CDIC]",
+      "comments": "For use with Foudre Class"
+    },
+    {
+      "table": "DataShip",
+      "name": "MCM 1 Avenger",
+      "comments": "SeaFox Inspection ROV"
+    },
+    {
+      "table": "DataShip",
+      "name": "P 511 Pattani",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "CV 62 Independence [Forrestal Class]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "P 76 Sea Wolf [FPB-45]",
+      "comments": "-"
+    },
+    {
+      "table": "DataShip",
+      "name": "CV 63 Kitty Hawk",
+      "comments": "-"
+    }
+  ],
+  "with_parentheses": [
+    {
+      "table": "DataShip",
+      "name": "CG 21",
+      "comments": "CG(X), Cancelled"
+    },
+    {
+      "table": "DataShip",
+      "name": "Haijing 3172",
+      "comments": "1x, Haijian Class(?)"
+    },
+    {
+      "table": "DataGroundUnit",
+      "name": "M977A4 HEMTT",
+      "comments": "Armored (B-Kit) Cab, JCR/BFT Integration"
+    },
+    {
+      "table": "DataMount",
+      "name": "SA-10b Grumble [5P85S] TEL",
+      "comments": "1985, S-300PS, 5V55R, 5V55V (Nuclear)"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "Nuclear",
+      "comments": "(50mT)"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "Nuclear",
+      "comments": "(1.5kT)"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "Nuclear W62",
+      "comments": "(170kT)"
+    }
+  ],
+  "technical_specs": [],
+  "year_references": [
+    {
+      "table": "DataGroundUnit",
+      "name": "Thunderbolt-2000",
+      "comments": "RT/LT-2000"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "ELT-555 DECM pod",
+      "comments": "1982?"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "SA-10a Grumble [5V55KD]",
+      "comments": "1982, S-300PT-1"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "Abu Mahdi [Hoveyzeh Mod]",
+      "comments": "Iran, 2020, ASM, Hoveyzeh is Soumar is Kh-55 Mod"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "RBU-12000 Salvo [R89, 10 rnds, Guided]",
+      "comments": "1987"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "Mk48 Mod 5 ADCAP",
+      "comments": "1991"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "SET-65M Enot-2 [NATO ET-80A[76]]",
+      "comments": "1973, Ship"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "JL-3 [1.0mT Nuclear, CSS-NX-20]",
+      "comments": "2022"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "CSS-6 Mod 1 [DF-15A, 500kg Conventional]",
+      "comments": "1996"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "RB 15F Mk2",
+      "comments": "2002"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "127mm/62 Mk186 HE-MOFN [Mk64 HiCap Body, Mk437 Fuse]",
+      "comments": "2015, Land and ASuW, No AAW, Multi-Option Fuze Navy"
+    },
+    {
+      "table": "DataSensor",
+      "name": "SMART-L ELR",
+      "comments": "2006, VSR"
+    },
+    {
+      "table": "DataSensor",
+      "name": "HQ-7 Search Radar [FM-80]",
+      "comments": "China, 1990, Crotale"
+    },
+    {
+      "table": "DataMount",
+      "name": "Ramses 2 Main Battle Tank",
+      "comments": "2005, T-54E"
+    },
+    {
+      "table": "DataMount",
+      "name": "Outfit DLJ(2)",
+      "comments": "1997, 8x Mounts"
+    },
+    {
+      "table": "DataMount",
+      "name": "324mm Mk32 TT Triple",
+      "comments": "USN, 1998"
+    },
+    {
+      "table": "DataMount",
+      "name": "CADS-N-1 [Palma]",
+      "comments": "2008, Gun-Only, No Radar"
+    },
+    {
+      "table": "DataMount",
+      "name": "533mm Mk67 TT",
+      "comments": "2021, SSN, Mk48"
+    },
+    {
+      "table": "DataMount",
+      "name": "Mk41 VLS [16 Cells]",
+      "comments": "Brandenburg, 2015"
+    },
+    {
+      "table": "DataMount",
+      "name": "SA-10b Grumble [5P85S] TEL",
+      "comments": "1985, S-300PS, 5V55R, 5V55V (Nuclear)"
+    },
+    {
+      "table": "DataMount",
+      "name": "533mm TT",
+      "comments": "2004, Virginia"
+    },
+    {
+      "table": "DataMount",
+      "name": "Mk41 VLS [48 Cells]",
+      "comments": "Hobart, 2015"
+    },
+    {
+      "table": "DataMount",
+      "name": "533mm Quint TT",
+      "comments": "1972, ASuW, 53-65K"
+    },
+    {
+      "table": "DataMount",
+      "name": "533mm TT",
+      "comments": "1973, SSN, Alfa, SET-65M"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Amethyste",
+      "comments": "1995"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Elma ASW-601 ASW Mortar [Hard Kill]",
+      "comments": "1997, 2x Mounts"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "CSA Mk1 Signal Ejector",
+      "comments": "1979, ADC Mk2 Mod 0; Blackwing UAV"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "SA-10a Bn",
+      "comments": "12x Mounts, 1982, S-300PT-1, 5V55KD"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Akula",
+      "comments": "2021, Kalibr"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Hades",
+      "comments": "1992"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Carrier Magazine",
+      "comments": "USN, LHA, 1983"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Cakra",
+      "comments": "1993"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Walrus",
+      "comments": "2005"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Sayyad-1A Battalion",
+      "comments": "2010"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Zwaardvis",
+      "comments": "1984"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Swiftsure",
+      "comments": "1983, Tigerfish Mod 1, Harpoon"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "A-12 Draken 533mm",
+      "comments": "1965"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Carrier Magazine",
+      "comments": "UK, 1998, Ocean"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Dark Eagle Bty",
+      "comments": "2025, LRHW"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Los Angeles",
+      "comments": "1982"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Mk36 SRBOC",
+      "comments": "6x Mounts, 1998"
+    },
+    {
+      "table": "DataWarhead",
+      "name": "Mk30 AMLRS 180mm Rocket (267 x M77 DPICM) 0.59kg Dual Purpose",
+      "comments": "Taiwan, RT-2000 AMLRS"
+    }
+  ],
+  "quantity_expressions": [
+    {
+      "table": "DataAircraft",
+      "name": "Mi-24A Hind A",
+      "comments": "10x"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "F-16A Falcon",
+      "comments": "Uses 6x AIM-9C SARH"
+    },
+    {
+      "table": "DataAircraft",
+      "name": "S-92A",
+      "comments": "3x"
+    },
+    {
+      "table": "DataShip",
+      "name": "901 [Shaldag Mk5]",
+      "comments": "4x"
+    },
+    {
+      "table": "DataShip",
+      "name": "LST 1179 Newport",
+      "comments": "3x LCVP, 1x LCP"
+    },
+    {
+      "table": "DataShip",
+      "name": "LD 601 Tarlac [Makassar Class]",
+      "comments": "SSV Program, 2x LCU,"
+    },
+    {
+      "table": "DataShip",
+      "name": "Pr.956E Sovremenny III [136 Hangzhou]",
+      "comments": "2x, MLU, Domestic Systems"
+    },
+    {
+      "table": "DataShip",
+      "name": "Haijing 3172",
+      "comments": "1x, Haijian Class(?)"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "Cosmos SX-506 Class",
+      "comments": "2x"
+    },
+    {
+      "table": "DataSubmarine",
+      "name": "PLARB-941UM Typhoon [Typhoon, Akula]",
+      "comments": "1x, Dimitri Donskoy, Buluva Test"
+    },
+    {
+      "table": "DataFacility",
+      "name": "AAA Sec (20mm/80 Rhinemetall FK 20-2 Towed)",
+      "comments": "2x pr Bty"
+    },
+    {
+      "table": "DataFacility",
+      "name": "Radar (UAR-1021 Skyguard)",
+      "comments": "6x, Used for Training After Twin Oerlikon Ret."
+    },
+    {
+      "table": "DataFacility",
+      "name": "AAA Plt/2 (23mm ZSU-23-2 BTR-ZD x 2)",
+      "comments": "2x pr Plt"
+    },
+    {
+      "table": "DataFacility",
+      "name": "Arty Bty (122mm/36 2S1 Gvozdika M1974 Self-Propelled Howitzer x 6)",
+      "comments": "140x"
+    },
+    {
+      "table": "DataFacility",
+      "name": "SAM Bty (Khordad-3 [Raad Mod])",
+      "comments": "Sevom Khordad, 4x Bty + Bashir pr Bn"
+    },
+    {
+      "table": "DataGroundUnit",
+      "name": "BTR-MDM",
+      "comments": "2x PKTM 7.62mm MG"
+    },
+    {
+      "table": "DataGroundUnit",
+      "name": "Combat Swimmer",
+      "comments": "5.56mm AR, RCO 4x Optic"
+    },
+    {
+      "table": "DataMount",
+      "name": "Outfit DLJ(2)",
+      "comments": "1997, 8x Mounts"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "HQ-17",
+      "comments": "4x TELAR"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Elma ASW-601 ASW Mortar [Hard Kill]",
+      "comments": "1997, 2x Mounts"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "SA-10a Bn",
+      "comments": "12x Mounts, 1982, S-300PT-1, 5V55KD"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "14.5mm/93 Twin MG",
+      "comments": "1x Mount"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "20mm/120 Meroka Mod 2",
+      "comments": "4x Mounts"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Barrage Silo Magazine (Emad)",
+      "comments": "5x Barrage Launch Wagons w/ 5 Missiles Each"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "40mm/70 m/48 Single Bofors",
+      "comments": "1x Mount"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "20mm/100 Mk15 Phalanx Blk 1B",
+      "comments": "1x Mount"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "40mm/70 Single Bofors",
+      "comments": "3x Mounts"
+    },
+    {
+      "table": "DataMagazine",
+      "name": "Mk36 SRBOC",
+      "comments": "6x Mounts, 1998"
+    }
+  ],
+  "deprecated_items": [
+    {
+      "table": "DataAircraft",
+      "name": "AH-1W Super Cobra",
+      "comments": "TOW Retired"
+    },
+    {
+      "table": "DataShip",
+      "name": "CG 21",
+      "comments": "CG(X), Cancelled"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "DEPRECATED",
+      "comments": "DEPRECATED"
+    },
+    {
+      "table": "DataWeapon",
+      "name": "Karinga CB [xx x Anti-Tank Bomblets]",
+      "comments": "Cancelled, Never Produced"
+    },
+    {
+      "table": "DataSensor",
+      "name": "Generic FLIR",
+      "comments": "DEPRECATED - 3rd Gen, Weapon Director & Target Search, Tracking and Identification FLIR"
+    },
+    {
+      "table": "DataComm",
+      "name": "SATCOM UHF",
+      "comments": "DEPRECATED, USE 358"
+    }
+  ]
+}

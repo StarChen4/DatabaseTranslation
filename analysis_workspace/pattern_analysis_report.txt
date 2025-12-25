@@ -1,0 +1,477 @@
+================================================================================
+样本数据命名模式分析报告
+================================================================================
+
+统计摘要:
+--------------------------------------------------------------------------------
+nato_codenames: 18 个样本
+with_brackets: 127 个样本
+with_slashes: 18 个样本
+manufacturer_names: 3 个样本
+model_numbers: 0 个样本
+abbreviations: 0 个样本
+chinese_designations: 21 个样本
+russian_designations: 26 个样本
+ship_designations: 14 个样本
+with_parentheses: 7 个样本
+technical_specs: 0 个样本
+year_references: 42 个样本
+quantity_expressions: 28 个样本
+deprecated_items: 6 个样本
+
+
+================================================================================
+模式: nato_codenames
+样本数: 18
+================================================================================
+
+1. [DataAircraft]
+   Name: Mi-24A Hind A
+   Comments: 10x
+
+2. [DataAircraft]
+   Name: JZ-8F Finback B
+   Comments: -
+
+3. [DataAircraft]
+   Name: Tu-95MSM Bear H
+   Comments: Kh-50
+
+4. [DataAircraft]
+   Name: Su-30MK2 Flanker G
+   Comments: -
+
+5. [DataAircraft]
+   Name: J-7L Fishcan D
+   Comments: Partial J-7E Upgr, Double Delta
+
+6. [DataAircraft]
+   Name: J-7 Fishcan
+   Comments: -
+
+7. [DataShip]
+   Name: Pr.956E Sovremenny III [136 Hangzhou]
+   Comments: 2x, MLU, Domestic Systems
+
+8. [DataShip]
+   Name: EM Sovremenny I [Pr.956A Sarych]
+   Comments: -
+
+9. [DataSubmarine]
+   Name: PLARK-675MKV Echo II
+   Comments: SS-N-12 Mod 1
+
+10. [DataSubmarine]
+   Name: PLARB-941UM Typhoon [Typhoon, Akula]
+   Comments: 1x, Dimitri Donskoy, Buluva Test
+
+   ... 还有 8 个样本
+
+================================================================================
+模式: with_brackets
+样本数: 127
+================================================================================
+
+1. [DataAircraft]
+   Name: OH-6D Cayuse [MD-500D, Model 369D]
+   Comments: -
+
+2. [DataAircraft]
+   Name: Hercules C.1P [C-130K]
+   Comments: -
+
+3. [DataAircraft]
+   Name: AH-1F Cobra [C-NITE]
+   Comments: -
+
+4. [DataAircraft]
+   Name: Hercules C.5 [C-130J]
+   Comments: -
+
+5. [DataAircraft]
+   Name: UC-12M [Super King Air 200]
+   Comments: -
+
+6. [DataShip]
+   Name: 901 [Shaldag Mk5]
+   Comments: 4x
+
+7. [DataShip]
+   Name: 721 Pulau Rote [Type 89.2 Kondor II]
+   Comments: -
+
+8. [DataShip]
+   Name: 811 Kakap [NAV I, PB 57 Patrol Variant]
+   Comments: -
+
+9. [DataShip]
+   Name: LD 601 Tarlac [Makassar Class]
+   Comments: SSV Program, 2x LCU,
+
+10. [DataShip]
+   Name: 351 Ahmad Yani [Van Speijk]
+   Comments: -
+
+   ... 还有 117 个样本
+
+================================================================================
+模式: with_slashes
+样本数: 18
+================================================================================
+
+1. [DataFacility]
+   Name: AAA Sec (20mm/80 Rhinemetall FK 20-2 Towed)
+   Comments: 2x pr Bty
+
+2. [DataFacility]
+   Name: Arty Bty (155mm/39 M109A4+ Self-Propelled Howitzer x 6)
+   Comments: -
+
+3. [DataFacility]
+   Name: Arty Bty (122mm/36 2S1 Gvozdika M1974 Self-Propelled Howitzer x 6)
+   Comments: 140x
+
+4. [DataFacility]
+   Name: Arty Bty (122mm/36 2S1 Gvozdika M1974 Self-Propelled Howitzer x 6)
+   Comments: -
+
+5. [DataWeapon]
+   Name: 127mm/64 Vulcano GLR IR [Guided Long Range]
+   Comments: -
+
+6. [DataWeapon]
+   Name: 102mm/45 Mk19 Twin HE Burst [2 rnds]
+   Comments: -
+
+7. [DataWeapon]
+   Name: 127mm/62 Mk186 HE-MOFN [Mk64 HiCap Body, Mk437 Fuse]
+   Comments: 2015, Land and ASuW, No AAW, Multi-Option Fuze Navy
+
+8. [DataMagazine]
+   Name: 14.5mm/93 Twin MG
+   Comments: 1x Mount
+
+9. [DataMagazine]
+   Name: 20mm/120 Meroka Mod 2
+   Comments: 4x Mounts
+
+10. [DataMagazine]
+   Name: 40mm/70 m/48 Single Bofors
+   Comments: 1x Mount
+
+   ... 还有 8 个样本
+
+================================================================================
+模式: manufacturer_names
+样本数: 3
+================================================================================
+
+1. [DataPropulsion]
+   Name: 3x MTU 20V-538 TB92 Diesels
+   Comments: -
+
+2. [DataPropulsion]
+   Name: 3x General Electric 12-645F8B Diesel Generators, 2x Westinghouse Electric Motors
+   Comments: -
+
+3. [DataPropulsion]
+   Name: 2x MTU 16V 4000 M90 Diesels
+   Comments: -
+
+================================================================================
+模式: chinese_designations
+样本数: 21
+================================================================================
+
+1. [DataAircraft]
+   Name: JZ-8F Finback B
+   Comments: -
+
+2. [DataAircraft]
+   Name: J-7L Fishcan D
+   Comments: Partial J-7E Upgr, Double Delta
+
+3. [DataAircraft]
+   Name: J-7 Fishcan
+   Comments: -
+
+4. [DataShip]
+   Name: 721 Pulau Rote [Type 89.2 Kondor II]
+   Comments: -
+
+5. [DataShip]
+   Name: Type 218A Hongming II [Haijing 12014]
+   Comments: -
+
+6. [DataSubmarine]
+   Name: 401 Cakra [Type 209-1300]
+   Comments: -
+
+7. [DataSubmarine]
+   Name: Type 035A Ming
+   Comments: -
+
+8. [DataFacility]
+   Name: Armored Plt (Type 74 MBT x 4)
+   Comments: -
+
+9. [DataFacility]
+   Name: SSM Bn (CH-SSC-13 Splinter [CJ-100])
+   Comments: DF-100
+
+10. [DataWeapon]
+   Name: CSS-X-24 [DF-27, 1200kg HE Conventional]
+   Comments: ASBM
+
+   ... 还有 11 个样本
+
+================================================================================
+模式: russian_designations
+样本数: 26
+================================================================================
+
+1. [DataAircraft]
+   Name: Mi-24A Hind A
+   Comments: 10x
+
+2. [DataAircraft]
+   Name: An-12B Cub A
+   Comments: -
+
+3. [DataAircraft]
+   Name: Tu-95MSM Bear H
+   Comments: Kh-50
+
+4. [DataAircraft]
+   Name: Su-30MK2 Flanker G
+   Comments: -
+
+5. [DataShip]
+   Name: Pr.956E Sovremenny III [136 Hangzhou]
+   Comments: 2x, MLU, Domestic Systems
+
+6. [DataShip]
+   Name: EM Sovremenny I [Pr.956A Sarych]
+   Comments: -
+
+7. [DataSubmarine]
+   Name: PLA-885M Severodvinsk [Yasen-M]
+   Comments: Graney, Zircon
+
+8. [DataFacility]
+   Name: SAM Sec (SA-16 Gimlet [9K310 Igla-1] MANPADS x 3)
+   Comments: -
+
+9. [DataFacility]
+   Name: SSM Silo (SS-24 Scalpel Mod 1 [RS-22])
+   Comments: -
+
+10. [DataFacility]
+   Name: ATGM Plt (AT-14 Spriggan [9M133 Kornet])
+   Comments: -
+
+   ... 还有 16 个样本
+
+================================================================================
+模式: ship_designations
+样本数: 14
+================================================================================
+
+1. [DataShip]
+   Name: AFS 1 Mars
+   Comments: -
+
+2. [DataShip]
+   Name: OUSV 4 Vanguard
+   Comments: Ghost Fleet Overlord, LUSV Concept
+
+3. [DataShip]
+   Name: LST 1179 Newport
+   Comments: 3x LCVP, 1x LCP
+
+4. [DataShip]
+   Name: PLH 31 Shikishima
+   Comments: -
+
+5. [DataShip]
+   Name: LD 601 Tarlac [Makassar Class]
+   Comments: SSV Program, 2x LCU,
+
+6. [DataShip]
+   Name: CVN 65 Enterprise
+   Comments: -
+
+7. [DataShip]
+   Name: A 135 Argus
+   Comments: -
+
+8. [DataShip]
+   Name: LSF 631 Solgae LCAC [LSF-II]
+   Comments: -
+
+9. [DataShip]
+   Name: L 9062 Hallebarde [CDIC]
+   Comments: For use with Foudre Class
+
+10. [DataShip]
+   Name: MCM 1 Avenger
+   Comments: SeaFox Inspection ROV
+
+   ... 还有 4 个样本
+
+================================================================================
+模式: with_parentheses
+样本数: 7
+================================================================================
+
+1. [DataShip]
+   Name: CG 21
+   Comments: CG(X), Cancelled
+
+2. [DataShip]
+   Name: Haijing 3172
+   Comments: 1x, Haijian Class(?)
+
+3. [DataGroundUnit]
+   Name: M977A4 HEMTT
+   Comments: Armored (B-Kit) Cab, JCR/BFT Integration
+
+4. [DataMount]
+   Name: SA-10b Grumble [5P85S] TEL
+   Comments: 1985, S-300PS, 5V55R, 5V55V (Nuclear)
+
+5. [DataWarhead]
+   Name: Nuclear
+   Comments: (50mT)
+
+6. [DataWarhead]
+   Name: Nuclear
+   Comments: (1.5kT)
+
+7. [DataWarhead]
+   Name: Nuclear W62
+   Comments: (170kT)
+
+================================================================================
+模式: year_references
+样本数: 42
+================================================================================
+
+1. [DataGroundUnit]
+   Name: Thunderbolt-2000
+   Comments: RT/LT-2000
+
+2. [DataWeapon]
+   Name: ELT-555 DECM pod
+   Comments: 1982?
+
+3. [DataWeapon]
+   Name: SA-10a Grumble [5V55KD]
+   Comments: 1982, S-300PT-1
+
+4. [DataWeapon]
+   Name: Abu Mahdi [Hoveyzeh Mod]
+   Comments: Iran, 2020, ASM, Hoveyzeh is Soumar is Kh-55 Mod
+
+5. [DataWeapon]
+   Name: RBU-12000 Salvo [R89, 10 rnds, Guided]
+   Comments: 1987
+
+6. [DataWeapon]
+   Name: Mk48 Mod 5 ADCAP
+   Comments: 1991
+
+7. [DataWeapon]
+   Name: SET-65M Enot-2 [NATO ET-80A[76]]
+   Comments: 1973, Ship
+
+8. [DataWeapon]
+   Name: JL-3 [1.0mT Nuclear, CSS-NX-20]
+   Comments: 2022
+
+9. [DataWeapon]
+   Name: CSS-6 Mod 1 [DF-15A, 500kg Conventional]
+   Comments: 1996
+
+10. [DataWeapon]
+   Name: RB 15F Mk2
+   Comments: 2002
+
+   ... 还有 32 个样本
+
+================================================================================
+模式: quantity_expressions
+样本数: 28
+================================================================================
+
+1. [DataAircraft]
+   Name: Mi-24A Hind A
+   Comments: 10x
+
+2. [DataAircraft]
+   Name: F-16A Falcon
+   Comments: Uses 6x AIM-9C SARH
+
+3. [DataAircraft]
+   Name: S-92A
+   Comments: 3x
+
+4. [DataShip]
+   Name: 901 [Shaldag Mk5]
+   Comments: 4x
+
+5. [DataShip]
+   Name: LST 1179 Newport
+   Comments: 3x LCVP, 1x LCP
+
+6. [DataShip]
+   Name: LD 601 Tarlac [Makassar Class]
+   Comments: SSV Program, 2x LCU,
+
+7. [DataShip]
+   Name: Pr.956E Sovremenny III [136 Hangzhou]
+   Comments: 2x, MLU, Domestic Systems
+
+8. [DataShip]
+   Name: Haijing 3172
+   Comments: 1x, Haijian Class(?)
+
+9. [DataSubmarine]
+   Name: Cosmos SX-506 Class
+   Comments: 2x
+
+10. [DataSubmarine]
+   Name: PLARB-941UM Typhoon [Typhoon, Akula]
+   Comments: 1x, Dimitri Donskoy, Buluva Test
+
+   ... 还有 18 个样本
+
+================================================================================
+模式: deprecated_items
+样本数: 6
+================================================================================
+
+1. [DataAircraft]
+   Name: AH-1W Super Cobra
+   Comments: TOW Retired
+
+2. [DataShip]
+   Name: CG 21
+   Comments: CG(X), Cancelled
+
+3. [DataWeapon]
+   Name: DEPRECATED
+   Comments: DEPRECATED
+
+4. [DataWeapon]
+   Name: Karinga CB [xx x Anti-Tank Bomblets]
+   Comments: Cancelled, Never Produced
+
+5. [DataSensor]
+   Name: Generic FLIR
+   Comments: DEPRECATED - 3rd Gen, Weapon Director & Target Search, Tracking and Identification FLIR
+
+6. [DataComm]
+   Name: SATCOM UHF
+   Comments: DEPRECATED, USE 358
+
